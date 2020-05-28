@@ -1,0 +1,38 @@
+.fmh-head {
+    padding: 15px 30px;
+    border-bottom: 1px solid #dedede;
+    font-size: 16px;
+}
+.fmh-head a {
+    text-decoration: none;
+    color: #363636;
+}
+.fmh-head-title {
+    border: 0px solid red;
+    font-size: 1.5rem;
+    padding-left: 42px;
+    background: url(../../img/house_001.svg) 0 2px/30px no-repeat;
+    color: #363636;
+}
+.fmh-head-filters {
+    margin-top: 20px;
+}
+.fmh-head-filters ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+.fmh-head-filters ul li {
+    float: left;
+}
+.fmh-head-filters ul li a {
+    display: block;
+    text-align: center;
+    padding: 6px 16px;
+    border: 1px solid #cecece;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    margin-right: 8px;
+}
+.fmh-head-filters ul li a i {
+    margin-left: 8px;
+}
